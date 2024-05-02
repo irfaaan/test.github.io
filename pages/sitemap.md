@@ -1,5 +1,5 @@
 ---
-title: Sitemap
+title: Sitemap - test
 layout: single
 permalink: /sitemap/
 ---
